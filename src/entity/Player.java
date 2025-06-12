@@ -1,5 +1,4 @@
 package entity;
-import java.awt.Color;
 import java.awt.Graphics2D;
 import java.awt.image.BufferedImage;
 import java.io.File;
@@ -57,7 +56,7 @@ public class Player extends Entity
         catch (IOException e)
         {
             e.printStackTrace();
-            System.out.println("error");
+            System.out.println("Image loading thing broke");
         }
     }
 
