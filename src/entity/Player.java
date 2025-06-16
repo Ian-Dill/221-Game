@@ -61,9 +61,6 @@ public class Player extends Entity
     }
 
 
-
-
-
     public void setDefaultValues()
     {
         x = 100;
