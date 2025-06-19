@@ -11,4 +11,4 @@ Game Desc
 ## Getting Started  
 1. Clone this repository:
    ```bash
-   git clone https://github.com/yourusername/221.git
+   git clone https://github.com/Ian-Dill/221-Game.git
